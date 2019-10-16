@@ -1,0 +1,6 @@
+2019-10-15 20:19:48,142 - mqtt_connector_main:INFO: Starting service Network Connector 0
+2019-10-15 20:31:12,008 - mqtt_connector_main:INFO: Starting service Network Connector 0
+2019-10-16 18:59:12,855 - mqtt_connector_main:INFO: Starting service Network Connector 0
+2019-10-16 19:01:50,532 - mqtt_connector_main:INFO: Starting service Network Connector 0
+2019-10-16 19:02:17,278 - mqtt_connector_main:INFO: Starting service Network Connector 0
+2019-10-16 19:04:40,044 - mqtt_connector_main:INFO: Starting service Network Connector 0
